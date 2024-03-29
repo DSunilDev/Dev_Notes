@@ -1,0 +1,21 @@
+ Domain Focus and Noting Down the Applications .. 
+
+ Continuously Coding --- > Writing Clean Code ____ Coding Standard (How Neat your Code looks like)
+
+1.Naming a Variable 
+Use descriptive names. ...
+Use empty lines to create a readable code. ...
+Do not send more than three parameters into a function. ...
+Remember the functions must do only one thing. ...
+Functions must be small. ...
+Reduce the number of characters in a line. ...
+ 
+
+ Make Problem Oriented Study ---> Solving Real life problems 
+
+ Risk Acceptance ---> Making the Complex things workout !!!
+
+
+
+
+ 
